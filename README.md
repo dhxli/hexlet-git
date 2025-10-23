@@ -1,2 +1,1 @@
-# hexlet-git
-Мой первый репозиторий
+Hello, Hexlet! How are you?
